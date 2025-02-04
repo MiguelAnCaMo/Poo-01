@@ -9,7 +9,6 @@ package poo.pkg01;
  * @author migue
  */
 public class Usuario {
-    
     int edad;
     String nombre;
     int codigo;
@@ -23,5 +22,4 @@ public class Usuario {
     public String mostrarTodo() {
         return "Usuario{" + "Nombre=" + nombre + ", Edad=" + edad + ", Codigo=" + codigo +'}';
     }
-    
 }

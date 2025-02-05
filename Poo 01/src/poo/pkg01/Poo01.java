@@ -19,7 +19,7 @@ public class Poo01 {
      Usuario us1 = new Usuario("Miguel",18, 1001);
      Usuario us2 = new Usuario("Juan",20, 1342);
      Usuario us3 = new Usuario("Fabian",19, 1293);
-          
+    
      Vector<Usuario>coleccion = new Vector<Usuario>();
      coleccion.add(us1);
      coleccion.add(us2);
